@@ -1,6 +1,6 @@
 - Hi, I’m @tatiana-vel
 - I’m interested in Nature, Science, and problem solving!
-- 🌱 I’m currently learning code, plan on becoming an engineer of some sort.
+- 🌱 I’m currently learning code, plan on becoming an engineer.
 -  I’m looking to collaborate on coding projects, I am new so pls help me out!
 
 <!---
